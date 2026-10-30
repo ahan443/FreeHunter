@@ -1,0 +1,779 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TAPMAD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TAPMAD
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ptv sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ptv sports
+http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Sports Select 1 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Sports Select 1 HD
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen5.aynaott.com/RtvHD/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+http://103.190.133.68:1935/news21live/live/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://mtv.sunplex.live/MAASRANGA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="#EXTVLCOPT:http-user-agent=DevM3U-Player" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",#EXTVLCOPT:http-user-agent=DevM3U-Player
+https://iptvbd.live/metv1080/1080.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Animal Planet HD
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Discovery
+https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Love Natural" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Love Natural
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="History TV18" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",History TV18
+https://n18syndication.akamaized.net/bpk-tv/History_HD_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Travel XP HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Travel XP HD
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wild Flix Hindi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Wild Flix Hindi
+https://cc-qgrxgp51645lw.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qgrxgp51645lw/IQJW/WBD/WildFlix_IN/WildFlix_IN.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Ten 1
+https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Ten 2
+https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Ten 5
+https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Saudi Quran TV - Makkah Live" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Saudi Quran TV - Makkah Live
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bangla Vision
+https://tv.kbhub.online/Bangladesh/Bangla-Vision.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Jamuna TV
+https://tv.kbhub.online/Bangladesh/Jamuna-TV.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",T Sports
+https://tv.kbhub.online/Live-Event-Sports/T-Sports.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Gold Select" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Gold Select
+http://103.114.11.37:8081/StarGoldSelect/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 1
+http://103.16.24.4:8083/1.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 2
+http://103.16.24.4:8083/2.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 4
+http://103.16.24.4:8083/4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 6" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 6
+http://103.16.24.4:8083/6.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 8
+http://103.16.24.4:8083/8.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 10" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 10
+http://103.16.24.4:8083/10.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 12" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 12
+http://103.16.24.4:8083/12.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 14" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 14
+http://103.16.24.4:8083/14.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RTV
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="My TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ATN Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bangla Vision
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",G Series Drama
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="A Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",A Sports
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Sports 2 HD
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Pravah HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Pravah HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shomoy TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Shomoy TV
+http://116.204.149.16/somoytv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RTV
+http://116.204.149.16/rtvhd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Global TV
+http://116.204.149.16/globaltv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maasranga
+http://116.204.149.16/maasranga/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SA TV
+http://116.204.149.16/satv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY LIV 5" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SONY LIV 5
+http://live.balajibroadband.com:3500/render.m3u8?auth=04XhnMyqwTRqrKOOd3alwgbmmKA792N9r4g3F7x7CbHqDtjZ8Y9TOtMwIhTPQIg9sIfM_GiZnVriXOZZt9ejzqT3JQvpO8bkFaqhT5JKiQbI-pL9N4h6y6-cdB0XgJp22x3HJhlH_Hn3z_bzB0w_ohk9o6C_ldjrCmidzEt5VrNz8D-VjgAmz6kOmvK0Ur4TCWtOGtLLhp_Hro-kchsA6lyj5KXo5DRNzbiJ1FsYxaeK_Iwr-8XekH63mRiBz5kLjUQttXTlMLe9dEUhtUz8xKYvCsvtMBYwia7TuCj-4fNLcgGhetpPI29Apv6BfX0KttDzanqj_D7JNRPxmCJSyfJB&channel_key_id=155#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY LIV 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SONY LIV 1
+http://live.balajibroadband.com:3500/render.m3u8?auth=dckL0E00sV261JulXkPTk615NHohjznEL6XR_qjlRbb_-5p_2hPbyH3RF60DeZtdZORv05rYDY0qALHgHY0hxhPQo-v2ClD0vexeZcLx9dsJ6wIhj9r9SdCurdUrueKs2QijoVQoWOrkWgk0zuu8JgQ9uQaurUZALFZnDbv7bEbF0VYYrG5GVWXT4kKbO3wH81XLUAgzldHaR34nv7TsgZHY2BSuBRa3Wy_2SD4Vlf06RjQmeeOgpblWR17-Cmh_YKcloyJD1gvqhmCFXv7IJOXTTmdODoLpu9KOmOld2NK5M2aPTZmDMXJTENNVYVvxiCnYMyDLHVWrSu86MdhnEZgg&channel_key_id=162#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY LIV 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SONY LIV 2
+http://live.balajibroadband.com:3500/render.m3u8?auth=_fGHqOB0bZ8fn6P7UNgQN0wVYsXx136r9I_eDt0DspRBa6N_HNXX4yX6UnobcNRRChmGmwA2CXgRBFNl3EjzilGx1ErkZiZCnh8aTmvXHnWyf1z7x54IOgmrfvgJlHAg89nkalSgVSqq4UPupv7XnlQfCRQxWgwpvsLQv6Kti9DgtOFG7zzHYkBHwb74Rw9RCag4CIOTSQ-2XGaFxaYmJiUwR56DLAffdOYi54IjnedixDcQBHUyq8V78fc2KyjZb9eai3fJ3aCvp2r6Jjy8m3eXMrVIe2otHl8YCujK3EqrlhslEkEs_Thb7LGWaVVRnLF0Icg78BtpuzfunNyr4Kn0LfA=&channel_key_id=891#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SONY LIV 3" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SONY LIV 3
+http://live.balajibroadband.com:3500/render.m3u8?auth=HMpckflfNGpJ5gbinjx5WNtwgkZXRMP_ap-H2F3d-s6F2PIjZlVWlFy4bme77AjqGaOSfxI33UQ4Klmj-D-iEfarmPs4s_o81pDcta4LqOtNzej9ZiXQ4sZmcRFKNU7U_ZDRD4GGVohWR79hny7cR-gREYEjNBjQTg8czaFpk8bd6SMpcaYTI9XLom9BsHxwx1dwzLLFWX5-Ct8frrd0r6o3VNuSfUY8OLxs0-DkNGR7bXdbWOR8ckSvtEjI2grsGB8jJLIrHmIT0EY96lAOO3PUqbZFpxXR7Xs2-JyiM1PXN9GDQ5IIcMM2Oi6jAKlGVINHt2oacCTutD9kkFGwq4o0pvY=&channel_key_id=892#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SAB HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SAB HD
+http://live.balajibroadband.com:3500/render.m3u8?auth=cKyFW0qhnitAREz1EvYJf4RciOAo-V5WRhEa9RxTexU6g4o546fa3FNo8PvZNJxj-CpTDbtvlwfHWKewQUhf-Pr5xToSQChjHOgu7P4MbWrW9Ycmcy342Yas6xCBSF3AZz7y2pduRy1qep7NPXW2-3n_RwxBzsu8aFU322tO01lP7-IQ28PwpiGlp7ZU14jzqYE9efieG75Z_1p05BHlxzAamNX9Dtq4I75O3ABzhQKFID-8OaG6GwfITDwZ7RKRI7nIZHPDsZWoCMlqjUtz9b_kUzXAXjpnXRio0iJ1JgkHaMEtdlTJnVC5xOlCoGN8jhYfHnuBLWNXQKjSK1Amg8mC1cU=&channel_key_id=471#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Pal" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Pal
+http://live.balajibroadband.com:3500/render.m3u8?auth=dlMkWfswZU1yjQ3CnW1axReDl_YxkNnviM1m-vQysu9bHEJ6Qk6GzFTBV6EGazz5UG-jK7WJBKsUfLjwV2jv3QAp9mZ7LqDTh7_5VDohy-EgVmamlGa37v4D-bhqIVoT46qLtJoVmBuWRapm42EypaD7j3zfyqndxEPh1jo2EZWjjLZg0ko4m-F8qhncNWMO5tkWIJovRjabktHu6EQnyTcDI_Qw0KNxU8aUToPw4_Isuvf0IptHemmOLqyIEruidTyZueoBhQhTd83M3670pE0_ufvfWcyauBEhOuwVH8W3q38RCMeZU88wUCdKOQTzDjLeu_RivrNSmZNTvQLjGmpWIIM=&channel_key_id=474#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Aath" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Aath
+http://live.balajibroadband.com:3500/render.m3u8?auth=HG0nVtVvPlM0pO0HjMGg9VSu0k7nkArfwpdWiAQHEGCGI2vd7agNg1NTm3_vD5lyaIdECUQ3-b5AZiDYKyizYjlAm7gc8TaZ0MNGtu3wEoWYjr1uXbUwp000eKVIT7O2EtJza-uUgjxhK7N_T-LScCLM0-D_GQ11z2Rn4VmpOA703UvEiWsZHTlA_AN1lsikarANz-8XAbSxROJ0-Wy989uJpA4UirV1MUb6Szk-BMPP8GHbuP06R1NUJg87mWEz-QFkGDqa9WdK8NuM9zGQIq7EAaYABlkjPSeItqMb1exVtbfNYlh6iiL05Do34PHZamN6y76tUmS5uhvzhZV-cA1BTulorA==&channel_key_id=697#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MAX 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MAX 1
+http://live.balajibroadband.com:3500/render.m3u8?auth=CLoCd7ltnQhCAb-ZPQ58Xg0_ZqkssI-WLc9YcPU1O4Aiq6fMNElBI6cRRd2DdON97Q9g4Eu3jJdNmoyy__p4d5VDx3B9o6TNxbsjpfAP-u3VlZAt5Ob7mweDYbqkdkmS81pmSz-R-gmNcxoX3LLwV8YadsCvUul8ar-005RmREfHNylOTZiUf2AlAh2a9ZSoZgq5fki2580qTuW4Z0tCSBIIwywfeWkeqR7epVozRkaYPtOdLHUmBnxH2NtY21Ud_kfcpUX_M2191hZGsRLvT-L-yJGTcTWI-UtRfXxgH-6EEgIMqGdcyvd3XePdXUV7QIRAQAcEWQbWR7XRwS7ZNUwEtBvbgQ==&channel_key_id=3418#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony WAH" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony WAH
+http://live.balajibroadband.com:3500/render.m3u8?auth=l2S9jJgjZlpFG1IdNf7-JgC4nTEftMvc6s1Gcte-H7W7cOKxi61CwtX7VQuVhgG-KCrZk0AZFkOIaP7YlqoHQWhKuUC__OIX5QlkCY55esK8yCVwOtYFnarrs3izEYFLOohBR-dSeRIRjD8XHWlQK-zgqJNR3tT7gTR4f5WmzFShr_74I-H1Qvvlnk8a2myHTBysfOXNGijEEFORc3qhKGTWl0vRftDjdo5XyBZ1ndveUaO19ndO8d1yAmUHvfNxb-Fz748nL_qgzXU2JmfkJZVSdLdpcsJGV7n6h7w2en9P_41H91yVVuRJLmklTMDi48iIFdhIWl2_EnFUBTn8ZXlXKl0=&channel_key_id=1393#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony PIX HD
+http://live.balajibroadband.com:3500/render.m3u8?auth=vHY_KzFqCNtxHjux-SyZlfFOAZ7O1Crs4wEUyRe_p2BAYXvt-PoPctdH-QueCEC52GhjKkwpdP4NBNfxZ_3stRJPO7XQjmsGv9DHQnXRy2GEx4_CTB-PjIhLy5a6JGJYW1kPipWiGGTuAo87TdWrqM5OKrc8x_7JjRrm5v0V1fYipV8-CeSY3J9iQQeVBf3igwEmUhUTwUQh9a4d9Pe1hWDv6RzVKsMK3nx9wc5or_OFL7Ay3UMsB0r6Gji4trJsfRBEusTkBeYaARhgLvkviqrPJu5BBXdTqE1xaUpm6oTE-WUucehAV0arXwMscgSZDLez4NbpjBW7paMvh_DgCnp-jJM=&channel_key_id=762#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BBC Earth
+http://live.balajibroadband.com:3500/render.m3u8?auth=inzwojDm66ghYyoxMUFlzvPKX-CxZTSaTyd60h0zsoECnvyTXLMOgh1A7-oMIJgJsbArJI9i4S_zwgOeIQx3_WFGYIKouTHcOIDQf5-WsEcsIE1WYvKnTst_fiol_gTvnZHNzsWs3Cxxx9Tzo8x2tnDx419GpQMWn12RDbOGauEUlLNRr_E5ZvOUK2jMHAacLUizlrhDC90dnWuzJc9Mk6_ang7xMBhKxipeGH4Ne_nTjCzOEaFKyJQCQcxSvNZaJjX780P-ZMgTV3YTJQZUs7BzY31DLgauL3Jt8jPkPeu2tKaV8z9fi67bkEgRpIfQ2e6xn1DzoxqNi_-pjq9VyqFuMhQHpTy5tH5TUrc9O_4qC8Ha&channel_key_id=821#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony Max 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony Max 2
+http://live.balajibroadband.com:3500/render.m3u8?auth=N7s0EJ3n9RZCuh9s8KsUpHeFhIxxtaPmEcm3CMeH0pBKNl1Ab0dNBvJHgZRMLwELfQiwJFrgLj-lJy2sHOq4MEtyj8Pqyh-kCBkdg2PcASB_XQEQTy6b13zpRvwR1yBRY6hDg-ZGCdOuh-SOJ522PRYPtan-IAJFoE7WDe_ukoUUzkMzqETTqlzrE7jTzcukKq3BJ03fvezku-8E-nS9_hpiLlLyJljUV6m98lxdbu1Ems8mRWTIPSsGd-5KTBXynBFDq_D3bcbNbGyifZrOURQMXTick9752Yx6H4h56gIgzCckexGk3lNa2nYC4_D3yEcpKu37zQuarJQjqWTOrU-fqNPBng==&channel_key_id=483#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony MAX HD
+http://live.balajibroadband.com:3500/render.m3u8?auth=sQg3TFKDuX_MFEMWUHcBZ2A--l7Xb6OaDf8fG8XKO4BevcqX6gXOkZyx47vX8Cvn4KDV4HANlUN2jeeQ9qWs8Bm48wAk8iEnWTjifABpNCCdvPcFqQC_VB5f3hHhWHg72VPhkRcAPuxzKNKnqb88qWutiJOqPLaq_1HhAyFHnghv2_S-shSudPMn5nbKitwDmZ0TWEHDtfZB8wDnEi9PfqwHMyrIYfXSR_1rhQYrCHvH-HbM4jPouGpJsSvMs9OUM_VjAHjHI9lL1bzXU3PS2EyppsasB2FJsMtRalHtqRDySTQpzff2Fyq31h9tGGM0BvMuumXMAQs-5DlQ1l0y_X6I6e0=&channel_key_id=476#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Cineplex Bollywood" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Colors Cineplex Bollywood
+http://live.balajibroadband.com:3500/render.m3u8?auth=tQsqp_Qo36vDUtH8Ox-uS1rFbkFJELOnfcC25-56AM4R033hqLeFCQlfMYvAf6quqJEef_IgAxR3Ty6uPh4oQDSCzRnjS4_4gKGtj99OiCzJiNOGYE_gyWaBOB6iPtK_Rl0hexskzGqRKDw74t14niF1oXVS0Ao9bYFAEu0BO9G48jQc64RnlO9UdGpgZaK8BA86Vrn2xmqcCXLBJg_Lf843h5phQpZoWRGAGYPosQaXy5BlEE-VxZK7unM7T0PJ3Z9Gq6vKQJ4uslDCgBJ46nTNU3T7pPzeIiviS_ME3ly3VzTJKagkSZmiPkpfjkWCvnEV_CHe3mSZoyRG2cLlnhfdwjmzN8u3f5fe_E6f6xN14LaiDDtKxXnz8WrmEtdeTt_4og==&channel_key_id=1763#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV (720p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga TV (720p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rajdhani TV (1080p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Rajdhani TV (1080p)
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RTV (720p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RTV (720p)
+https://tvsen5.aynaott.com/RtvHD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga TV (720p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maasranga TV (720p)
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Nexus TV (576p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Duronto TV (720p)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Duronto TV (720p)
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tom & Jarry" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Travel XP English NZ" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="History TV18 HD Hindi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",History TV18 HD Hindi
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maa HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maa HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starmaa1.smil/chunklist_b2628000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Aastha" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Aastha
+https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP News India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABP News India
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNBC Awaaz" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD National" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD News
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News 18 India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News 18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Marathi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Marathi
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="India TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MTV
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NDTV India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NDTV Profit
+https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sanskar" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sanskar
+https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Times NOW" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Times NOW
+https://dai.google.com/linear/hls/pb/event/1mR1QUQ3Tg-VuKfiyjwNuA/stream/f7d2658d-41f7-4c2c-9164-7371737855cf:TPE/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Tamil HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Colors Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNBC TV18" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNBC Bajar" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNBC Bajar
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNN NEWS18" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNN NEWS18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="dw" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",dw
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News Nation" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee News
+https://dt3lrqnyx3dks.cloudfront.net/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sudarshan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sudarshan
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sansad TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sansad TV HD
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e4182054dce340da9e0ff38b6b3658a4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD India
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 MP Chhattisgarh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 MP Chhattisgarh
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 UP Uttarakhand" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 UP Uttarakhand
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Rajasthan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Rajasthan
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ZOOM
+https://dai.google.com/linear/hls/pb/event/JCAm25qkRXiKcK1AJMlvKQ/stream/44aacbf5-4335-4072-9601-77ec13ab576a:SIN2/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Satsang TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Satsang TV
+https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shalom" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Shalom
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP Majha" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABP Majha
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/majha-livetv/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Tamil nadu" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Tamil nadu
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Gujarati" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Gujarati
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Assam NE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Assam NE
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sakshi tv" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sakshi tv
+https://legitpro.co.in/sakshitv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="North East Live" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",North East Live
+https://server.thelegitpro.in/northeastlive/northeastlive/index.fmp4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP Asmita" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABP Asmita
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/asmita-livetv/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="VTV Gujarati" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",VTV Gujarati
+https://live1.ottlive.co.in/vtvgujarati/vtvgujarati/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NTV
+https://mumbai-edge.smartplaytv.in/NTVTelugu/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pratidin Time" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Pratidin Time
+https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mazhavil Manorama" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Mazhavil Manorama
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj News Malayalam" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj News Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSMALAYALAM/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Kannada" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Kannada
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Punjab Haryana HP" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Punjab Haryana HP
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Punjab Haryana" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Punjab Haryana
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee MP Chattisgarh" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee MP Chattisgarh
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeemadhyachhattisgarh/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2ab17056-6187-4f0e-a34d-f436ac479d6c/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Rajasthan" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Rajasthan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Bihar Jharkhand" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Bihar Jharkhand
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeebiharjharkhand/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/28077955-07d7-4ae2-8b11-9f318cd69420/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Manorama News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Manorama News
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj News Telugu" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj News Telugu
+https://mumt04.tangotv.in/m18aqlK4RAJNEWSTELUGU/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABN Andhra Jyothi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABN Andhra Jyothi
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="T News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",T News
+https://mumbai-edge.smartplaytv.in/TNews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TV 5 News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TV 5 News
+https://mumbai-edge.smartplaytv.in/TV5Telugu/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP Ananda" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABP Ananda
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ananda-livetv/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="news18 Bihar Jharkhand" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",news18 Bihar Jharkhand
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Delhi NCR JK" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Delhi NCR JK
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Odia" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Odia
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj TV
+https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Bangla
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Amrita TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Amrita TV
+https://ddash74r36xqp.cloudfront.net/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Delhi NCR Haryana
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeedelhincr/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cc483a15-1b39-4642-872d-5d08d362ed01/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Tamil" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD Tamil
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Salaam TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Salaam TV
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/af896be5-4743-41fc-8b6a-eb05e44f3a6e/3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Vissa TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Vissa TV
+https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj Music Telugu" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj Music Telugu
+https://mumt07.tangotv.in/zHjX9OFlRAJMUSIXTELUGU/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj Music Malayalam" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj Music Malayalam
+https://mumt04.tangotv.in/m18aqlK4RAJMUSIXMALAYALAM/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raj Music Kannada" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raj Music Kannada
+https://mumt01.tangotv.in/O5aw8Zn3RAJMUSIXKANDA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Colors Kannada HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Colors Kannada HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorskannadahd1.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maa Movies HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maa Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="V6 News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",V6 News
+https://mumbai-edge.smartplaytv.in/V6News/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kashish News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Kashish News
+https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kalinga TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Kalinga TV
+https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sandesh News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sandesh News
+https://stream.ottlive.co.in/sandeshnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CVR News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CVR News
+https://mumbai-edge.smartplaytv.in/CVRNews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Taaza TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Taaza TV
+https://live.we2live.in/taazatv/live/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Divya TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Divya TV
+https://vg-pitaaratvlive.akamaized.net/v1/vglive-sk-906482/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shubh TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Shubh TV
+https://d2g1vdc6ozl2o8.cloudfront.net/out/v1/0a0dc7d7911b4fddbb4dfc963fdd4b9e/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Living India News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Living India News
+https://stream.ottlive.co.in/livingindia/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="10 TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",10 TV
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Angel TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Angel TV HD
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",France 24
+https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Mazhavil Manorama HD
+https://mmtv-vglivessai.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/f8a0827f-030f-4a0d-b7e5-338996c09a5b/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News India 24x7" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News India 24x7
+https://stream.ottlive.co.in/newsindia/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Janta TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Janta TV
+https://live.jswk.online/IK_RTPM/live/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News11" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News11
+https://live1.ottlive.co.in/news11/news11/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Vedant Ras Swar Shree" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Vedant Ras Swar Shree
+https://live.ottlive.co.in/vedantswarshree/vedantswarshree/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sun Gemini HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sun Gemini HD
+http://ptuf.ridsys.in/riptv/live/GEMINI_TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Only Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Only Music
+https://mumbai-edge.smartplaytv.in/OnlyMusic/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sanjha TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sanjha TV
+https://livestream.unlimitedcdn.com/sanjhatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Desi Channel" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Desi Channel
+https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Divya Vani" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Divya Vani
+https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pitaara" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Pitaara
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="R Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Live Samachar Bharat" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Live Samachar Bharat
+https://legitpro.co.in/livesamacharbharat/livesamacharbharat/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DNN" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DNN
+https://stream.ottlive.co.in/dnnnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Om Shanti" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Om Shanti
+https://webcastcdnbkwsu.b-cdn.net/live/godlywood_1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News18 Kerala" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News18 Kerala
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTC Punjabi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fateh TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fateh TV
+https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Valam TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Valam TV
+http://cabletv.valamtv.in/hls/stream0.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTC Music" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTC Punjabi Gold" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABP Ganga" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABP Ganga
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Nimbark TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Nimbark TV
+https://legitpro.co.in/nimbarktv/nimbarktvbox/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Headlines Tripura" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Headlines Tripura
+https://distro.ottlive.co.in/headlinestripura/headlinestripura/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ctvn Akd Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Ctvn Akd Plus
+https://legitpro.co.in/ctvnakdplus/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Calcutta News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Calcutta News
+https://legitpro.co.in/cnnnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BRK News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BRK News
+https://mumbai-edge.smartplaytv.in/BRKNEWS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Kolkata TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Kolkata TV
+https://cdn.ottlive.co.in/kolkatatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RT India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RT India
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Tamil HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeetamil1.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Zee Kannada HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Zee Kannada HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:zeekannadahd.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Republic Bharat" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Republic Bharat
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sai Leela" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sai Leela
+https://server.thelegitpro.in/saileelatv/saileelatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="News Only" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",News Only
+https://livestream.unlimitedcdn.com/newsonly/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Argus News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Argus News
+https://stream.ottlive.co.in/argus/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sristi TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sristi TV
+https://legitpro.co.in/live7/sristitv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tara TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Tara TV
+https://legitpro.co.in/taratv/taratv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Rongeen TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="C News Bharat" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",C News Bharat
+https://legitpro.co.in/cnews/cnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="VR Live" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",VR Live
+https://channel.vrlivegujarat.com/hls/vrchannel.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jan Setu News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Jan Setu News
+https://thelegitpro.in/hls10/jansetunews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pratham Khabar 24x7" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Pratham Khabar 24x7
+https://legitpro.co.in/hls2/newstime/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Adhyatma TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Adhyatma TV
+https://mumbai-edge.smartplaytv.in/AdhyatmTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Times Now Navbharat" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Times Now Navbharat
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global India" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Global India
+https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Amar Bangla TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Amar Bangla TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Top News Marathi" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Top News Marathi
+https://live1.ottlive.co.in/topnewsmarathi/topnewsmarathi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PMC Telugu" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PMC Telugu
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Munsif TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Munsif TV
+https://live1.ottlive.co.in/munsiftv/munsiftv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global Punjab" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Global Punjab
+https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Raatdin Bangla" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Raatdin Bangla
+https://server.playontv.in/raatdinbangla/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sadvidya TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sadvidya TV
+https://server.thelegitpro.in/sadvidya/sadvidya/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bharat 24" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bharat 24
+https://cdn.ottlive.co.in/bharat24/index.fmp4.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Swatantra News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Swatantra News
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Globe TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Globe TV
+https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Samay Kolkata" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Samay Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Firstpost" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Firstpost
+https://n18syndication.akamaized.net/bpk-tv/Firstpost_NW18_MOB/output01/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Friends TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Friends TV
+https://server.playontv.in/friendstv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Vande Bharat News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Vande Bharat News
+https://live.ottlive.co.in/vandebharat/vandebharat/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Prime 9 News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Prime 9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Wild Earth
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="3ABN Kids [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",3ABN Kids [PAID]
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABC News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABC News [PAID]
+https://tvsen6.aynaott.com/ABCxzdsdNews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ABN  [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ABN  [PAID]
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AMC TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",AMC TV [PAID]
+https://tvsen6.aynaott.com/amc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AXS [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",AXS [PAID]
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Accu Weather [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Accu Weather [PAID]
+https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Adventure Earth [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Adventure Earth [PAID]
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Aljazeera News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Aljazeera News [PAID]
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Animal Planet HD [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Animal Planet HD [PAID]
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Asian TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Asian TV [PAID]
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Assam Talks [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Assam Talks [PAID]
+https://tvsen7.aynaott.com/AssamTalks/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="B4U Kadak [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",B4U Kadak [PAID]
+https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="BBC News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",BBC News [PAID]
+https://tvsen1.aynaott.com/shn6jGTk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bahrain Sports 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bijoy TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bijoy TV [PAID]
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Bloomberg TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bloomberg TV [PAID]
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CBS TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CBS TV [PAID]
+https://tvsen3.aynaott.com/34fJSjZP/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CMAC TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CMAC TV [PAID]
+https://reflect-vod-cmac.cablecast.tv/live-11/live/stream-2/live.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNBC TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNBC TV [PAID]
+https://tvsen6.aynaott.com/cnbc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CNN [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CNN [PAID]
+https://tvsen6.aynaott.com/cnn/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="COMEDY CENTRAL [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",COMEDY CENTRAL [PAID]
+https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CP 24 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CP 24 [PAID]
+https://tvsen6.aynaott.com/cp24/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 24 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 24 [PAID]
+https://tvsen6.aynaott.com/YrVDF8gujkdh/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 52 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 52 [PAID]
+https://tvsen6.aynaott.com/channel52/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel 9 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 9 [PAID]
+https://tvsen6.aynaott.com/kajlsd57jnzxyo/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Cricket Gold [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Cricket Gold [PAID]
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DD Bangla [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DD Bangla [PAID]
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Dangal 2 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Dangal 2 [PAID]
+https://tvsen3.aynaott.com/8KfZvBYS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Deepto TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Deepto TV [PAID]
+https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discover Pikstan [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Discover Pikstan [PAID]
+https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discovery Family [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Discovery Family [PAID]
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discovery HD [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Discovery HD [PAID]
+https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Discovery Turbo [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Discovery Turbo [PAID]
+https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Disney Channel [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Disney Channel [PAID]
+https://tvsen7.aynaott.com/disney/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Drama 24 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Drama 24 [PAID]
+https://vods2.aynaott.com/gseriesDrama/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="EPIX TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",EPIX TV [PAID]
+https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ESPN [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ESPN [PAID]
+https://tvsen7.aynaott.com/espn/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="ETV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",ETV [PAID]
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Ekhon TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Ekhon TV [PAID]
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Enter 10 Bangla [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Enter 10 Bangla [PAID]
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FIFA+ [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FIFA+ [PAID]
+https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Food Network [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Food Network [PAID]
+https://tvsen3.aynaott.com/7hm4TfVp/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox 5 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox 5 [PAID]
+https://tvsen6.aynaott.com/fox5/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox News [PAID]
+https://tvsen6.aynaott.com/foxnews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox Weather  [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox Weather  [PAID]
+https://247wlive.foxweather.com/stream/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox business [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox business [PAID]
+https://tvsen6.aynaott.com/foxbusiness/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Global TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Global TV [PAID]
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goal TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Goal TV [PAID]
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Goldmines Movies [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Goldmines Movies [PAID]
+https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HBO [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",HBO [PAID]
+https://tvsen7.aynaott.com/hbo/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HBO 2 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",HBO 2 [PAID]
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HGTV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",HGTV [PAID]
+https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HISTORY TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",HISTORY TV [PAID]
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Hindi Movie Classic 24 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Hindi Movie Classic 24 [PAID]
+https://vods2.aynaott.com/hindimovies/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Independent TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Independent TV [PAID]
+https://tvsen6.aynaott.com/Wef2Vj67njeYGDqQNFB9/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="India Today [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",India Today [PAID]
+https://feeds.intoday.in/hltapps/api/master.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Iqra Bangla [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Iqra Bangla [PAID]
+https://tvsen3.aynaott.com/EuEy5mBW/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Islam TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Islam TV [PAID]
+https://tvsen1.aynaott.com/bB3A5dyq/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="KTV Sport Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",KTV Sport Plus
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="LAFF TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",LAFF TV [PAID]
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="LIFE TIME [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",LIFE TIME [PAID]
+https://tvsen7.aynaott.com/lifetime/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MADANI TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MADANI TV [PAID]
+https://tvsen3.aynaott.com/z24qLsqV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MSNBC News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MSNBC News [PAID]
+https://tvsen6.aynaott.com/msnbc/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MTV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MTV [PAID]
+https://tvsen6.aynaott.com/mtv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Maasranga TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Maasranga TV [PAID]
+https://tvsen6.aynaott.com/maasrangatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Marquee Sports Network [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Marquee Sports Network [PAID]
+https://tvsen6.aynaott.com/MarqueeSportsNetwork/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Moonbug Kids [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Moonbug Kids [PAID]
+https://moonbug-rokuus.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NFL Network [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NFL Network [PAID]
+https://tvsen6.aynaott.com/nfl/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV Europe [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NTV Europe [PAID]
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Nat Geo TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Nat Geo TV [PAID]
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="OAN  [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",OAN  [PAID]
+https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Oman Sports TV HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Oman Sports TV HD
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PBS Kids [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PBS Kids [PAID]
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="PTV Sports [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",PTV Sports [PAID]
+https://tvsen5.aynaott.com/kP9vX2mZ7qL5wN3t/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Pix 11 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Pix 11 [PAID]
+https://tvsen3.aynaott.com/GPHeknR5/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Power Turk [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Power Turk [PAID]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="RDS Social TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",RDS Social TV [PAID]
+https://stream.rdstv.radio/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Shemaroo TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Shemaroo TV [PAID]
+https://tvsen3.aynaott.com/27jCLCUX/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sky News [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sky News [PAID]
+https://tvsen5.aynaott.com/skynews/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sky News Weather [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sky News Weather [PAID]
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sony AATH [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sony AATH [PAID]
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sports First TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sports First TV [PAID]
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Sports Fishing TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Sports Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="T Sports HD [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",T Sports HD [PAID]
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TBS [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TBS [PAID]
+https://tvsen6.aynaott.com/tbs/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TLC HD [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TLC HD [PAID]
+https://tvsen3.aynaott.com/EJagkNL2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TNT Sport 1 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TNT Sport 1 [PAID]
+https://tvsen5.aynaott.com/asdfadsf/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TSN 1 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TSN 1 [PAID]
+https://tvsen7.aynaott.com/tsn1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TSN 2 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TSN 2 [PAID]
+https://tvsen7.aynaott.com/tsn2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TSN 3 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TSN 3 [PAID]
+https://tvsen7.aynaott.com/tsn3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TV9 Bangla [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TV9 Bangla [PAID]
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TVC Arabic Kids [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TVC Arabic Kids [PAID]
+https://tvsen6.aynaott.com/TVCArabicKids/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TVCARiB Kids & Teens [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TVCARiB Kids & Teens [PAID]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Talk Sport [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Talk Sport [PAID]
+https://tvsen6.aynaott.com/talkSPORT/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Teen Nick [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Teen Nick [PAID]
+https://tvsen7.aynaott.com/teennick/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Thikana [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Thikana [PAID]
+https://5dd3981940faa.streamlock.net/thikanatv/thikanatv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Travel Channel [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Travel Channel [PAID]
+https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Weather SPY [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Weather SPY [PAID]
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wild TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Wild TV [PAID]
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Willow Sports 2 [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Willow Sports 2 [PAID]
+https://tvsen7.aynaott.com/Sports1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Willow TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Willow TV [PAID]
+https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Wion [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Wion [PAID]
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="World War TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",World War TV [PAID]
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Xtrem Sports [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Xtrem Sports [PAID]
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="YTV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",YTV [PAID]
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="kolkata TV [PAID]" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",kolkata TV [PAID]
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Fox HD (Gua3)" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Fox HD (Gua3)
+http://45.228.233.222:8000/play/a02v#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DSPORTS 1-iks" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DSPORTS 1-iks
+http://38.252.215.33:8000/play/a00q/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="UNIVISION MIAMI" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",UNIVISION MIAMI
+http://168.228.44.241:9997/play/a09d/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="AXTECA 7" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",AXTECA 7
+http://45.238.141.222:8000/play/a0od/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CANAL 5 MX" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CANAL 5 MX
+http://132.255.210.69:8000/play/a06e/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CANAL 5 MX" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CANAL 5 MX
+http://45.238.141.222:8000/play/a0oi/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="CANAL 5MX" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",CANAL 5MX
+http://190.61.101.11:7050/play/a098/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="canal 5 mx" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",canal 5 mx
+http://51.222.31.20:8000/play/a01l/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUDN H" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUDN H
+http://168.228.44.241:9997/play/a061/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUDN USA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUDN USA
+http://168.228.44.241:9997/play/a09f/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUDN 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUDN 1
+http://45.186.106.207:8000/play/a099/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUD 5 SD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUD 5 SD
+http://45.171.64.30:8800/play/a07e#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="7 FOX + PREMIER LIGA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",7 FOX + PREMIER LIGA
+http://190.61.101.11:7050/play/a08w/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tigo Sports HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Tigo Sports HD
+http://168.228.44.241:9997/play/a067/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX
+http://168.228.44.241:9997/play/a054/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX 1 MUNDIAL" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX 1 MUNDIAL
+http://168.228.44.241:9997/play/a066/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX CR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX CR
+http://168.228.44.241:9997/play/a052/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX HD GUA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX HD GUA
+http://168.228.44.241:9997/play/a053/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUDN
+http://45.228.234.62:8000/play/a00a/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TUDN 4K" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TUDN 4K
+http://177.10.184.60:8002/play/a013/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="3 FOXONE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",3 FOXONE
+http://38.159.227.214:8000/play/a038#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="5 FOX HD GUA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",5 FOX HD GUA
+http://45.5.118.152:8000/play/a0dh/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="9 FOXONE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",9 FOXONE
+http://45.228.234.62:8000/play/a05i/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="15 FOXONE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",15 FOXONE
+http://45.5.118.152:8000/play/a0ds/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="16 FOXONE" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",16 FOXONE
+http://45.5.118.152:8000/play/a0df/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="20 FOX HD GUA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",20 FOX HD GUA
+http://190.14.10.19:16000/play/a0a2/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX CR" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX CR
+http://201.207.54.159:8000/play/a0as/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX ESA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX ESA
+http://201.207.54.159:8000/play/a0d3/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="FOX Sports HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",FOX Sports HD
+http://201.207.54.159:8000/play/a07b/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DirecTv Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DirecTv Sports
+http://138.59.227.20:8000/play/a0ft/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DSPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DSPORT
+http://38.252.215.33:8000/play/a02a/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="11 DIRECT SPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",11 DIRECT SPORT
+http://200.115.120.1:8000/play/ca109/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="G- IP DIRECTV SPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",G- IP DIRECTV SPORT
+http://190.108.83.69:8000/play/a0cb/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Directv sport12" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Directv sport12
+http://181.224.255.210:8001/play/a0s8/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="00 - DirecTV Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",00 - DirecTV Sports
+http://38.56.111.14:8000/play/a041/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DSPORTS HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DSPORTS HD
+http://190.108.80.138:8000/play/a0k0/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DIREVT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DIREVT
+http://191.97.61.32:8000/play/a08t/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="D-SPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",D-SPORT
+http://181.78.82.130:8000/play/a0r5/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="directv sport" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",directv sport
+http://38.224.231.176:8000/play/a08d/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DIRETV SPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DIRETV SPORT
+http://190.119.168.226:4000/play/a0a5/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="DIRECTV SPORT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",DIRECTV SPORT
+http://190.117.20.37:8000/play/a08d/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="D SPORT +" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",D SPORT +
+http://38.199.5.160:8000/play/a09q/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="D-SPORT 2" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",D-SPORT 2
+http://181.78.82.130:8000/play/a0r4/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="TIGO SPORTS HONDURAS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",TIGO SPORTS HONDURAS
+http://38.188.186.47:4000/play/a018/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="090-TyC Sport" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",090-TyC Sport
+http://38.252.215.33:8000/play/a02o/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Win Sports
+http://181.78.211.244:8005/play/a0am/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Win Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Win Sports
+http://181.78.21.46:8009/play/a02s#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Tigo Sports HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Tigo Sports HD
+http://45.5.118.152:8000/play/a08x/index.m3u8#fb:M3U_World_4K
