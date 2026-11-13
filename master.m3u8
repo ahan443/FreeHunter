@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬",T Sports HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+http://103.16.24.4:8083/14.m3u8
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="-",Nagorik
+https://flussonic.defineatoz.com/backup/index.m3u8
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel 1
+http://103.135.253.32:8080/Channel-1/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="HINDI HITS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",HINDI HITS
+https://stream.dplive.workers.dev/hls/tPDDb7oEzgZYmNQ-sJ-rMAmu01gQwf-ChC7nuEX4ZYx8s0K5NCgTo0siyxzKS7c-JY51iWdKp40vKaATkpnz_eTeU2yPzTLLqI83KDEZCRxMvykAJoTTjzdv6Q/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Jhojpuri Cinema" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="SHEMAROO JOSH" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",SHEMAROO JOSH
+https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/tracks-v1a1/mono.m3u8#fb:M3U_World_4K
+#EXTINF:-1 group-title="-",Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJ90sMKN/20240823_023541.png" group-title="𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐨𝐫𝐲",Discovery HD
+http://live.balajibroadband.com:3500/live/3428.m3u8
+#https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Gazi TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Gazi TV
+http://103.135.253.32:8080/Gazi-TV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star News" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star News
+http://103.135.253.32:8080/Star-News/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NATGEO HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NATGEO HD
+http://103.135.253.32:8080/NATGEO-HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Color HD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Color HD
+http://103.135.253.32:8080/Color-HD/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MN PLUS" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MN PLUS
+http://103.135.253.32:8080/MN-PLUS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="MOVIES NOW" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",MOVIES NOW
+http://103.135.253.32:8080/MOVIES-NOW/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR BHARAT" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",STAR BHARAT
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="STAR MOVIES" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",STAR MOVIES
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Star Plus" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Star Plus
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",NTV
+http://103.135.253.32:8080/NTV/index.m3u8#fb:M3U_World_4K
+#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K",Channel I
+http://103.135.253.32:8080/Channel-I/index.m3u8#fb:M3U_World_4K
+
+
+
+#EXTINF:-1 tvg-id="StarUtsav" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="India" provider="fb:M3U_World_4K",Star Utsav
+http://163.61.226.31:9981/stream/channelid/894286890?profile=pass#fb:M3U_World_4K
